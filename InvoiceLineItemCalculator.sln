@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "InvoiceLineItemCalculator", "InvoiceLineItemCalculator.pyproj", "{B61E9690-94F3-423B-AF6F-CB11A4A6C706}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B61E9690-94F3-423B-AF6F-CB11A4A6C706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B61E9690-94F3-423B-AF6F-CB11A4A6C706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0515D68E-7676-4A88-A3B9-1BC795B23B4A}
+	EndGlobalSection
+EndGlobal
